@@ -9,7 +9,7 @@
 <a name="customize-menu-or-sidebar"></a>
 ### Customize the menu or sidebar
 
-During installation, Backpack publishes a few files in you ```resources/views/vendor/backpack/base/inc``` folder. In there, you'll also find:
+During installation, Backpack publishes a few files in your ```resources/views/vendor/backpack/base/inc``` folder. In there, you'll also find:
 - ```sidebar_content.php```
 - ```topbar_left_content.php```
 - ```topbar_right_content.php```
